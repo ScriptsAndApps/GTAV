@@ -25,7 +25,7 @@ to use this menu press f4 or (dpad > and r2 on controller )
 
 install https://www.cheatengine.org/ make sure to skip tutorial when install and firts open
 
-after instal open ![Wicked.GTA5.V3.2.CT](https://github.com/ScriptsAndApps/gtav/blob/main/Wicked.GTA5.V3.2.CT) with cheatengine file when gta is open 
+after installing CE open ![Wicked.GTA5.V3.2.CT](https://github.com/ScriptsAndApps/gtav/blob/main/Wicked.GTA5.V3.2.CT) with cheatengine when gta is open 
 
 **IMPORTANT**
 
