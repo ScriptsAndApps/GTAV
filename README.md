@@ -15,7 +15,7 @@ to use this menu press f4 or (dpad > and r2 on controller )
 
 
 ![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtav/main/nenyoo.png)
-
+https://www.unknowncheats.me/forum/grand-theft-auto-v/488777-n3ny000-menu-1-66-a.html
 
 -----------------------------------------------
 
@@ -32,5 +32,5 @@ after installing CE open ![Wicked.GTA5.V3.2.CT](https://github.com/ScriptsAndApp
 **goto casino and rig casino slot then bet max, 1 time then disable the mod, now lose 3-4 times then rig and win again etc**
 
 ![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtav/main/slot.png)
-
+https://www.unknowncheats.me/forum/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html
 
