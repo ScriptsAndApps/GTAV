@@ -4,6 +4,16 @@ cheats money etc
 video for money hack https://www.youtube.com/watch?v=n5Mwc3aLJvA
 
 
+kiddioions moddest februari 2023 1.66 working
+
+i have added allot of custom scripts and cars enjoy!
+
+![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtav/main/custom.png)
+
+to use download this and open the modest menu protected.exe
+
+https://github.com/ScriptsAndApps/GTAV/archive/refs/heads/main.zip
+
 -------------------------------------
 
 **DOWNLOAD**
