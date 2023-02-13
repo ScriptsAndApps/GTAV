@@ -18,6 +18,8 @@ https://github.com/ScriptsAndApps/GTAV/archive/refs/heads/main.zip
 
 **DOWNLOAD**
 
+https://github.com/ScriptsAndApps/GTAV/raw/main/Nenyooo%205.1_%5Bunknowncheats.me%5D_1.66_feb-8_(1).zip
+
 **unzip anywhere...**
 
 **first time run Lazy Installer(note it deletes ur old nenyooo folder).bat**
