@@ -14,7 +14,7 @@ i have added allot of custom scripts and cars enjoy!
 
 to use download this and open the modest menu protected.exe
 
-https://github.com/ScriptsAndApps/GTAV/archive/refs/heads/main.zip
+https://github.com/ScriptsAndApps/GTAV/raw/main/kidions%20modest%201.66/modest%20with%20scripts%20new%201.66.zip
 
 -------------------------------------
 
