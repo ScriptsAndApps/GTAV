@@ -10,7 +10,7 @@ kiddioions moddest februari 2023 1.66 working
 
 i have added allot of custom scripts and cars enjoy!
 
-![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtav/main/menu166.png)
+![alt text](https://raw.githubusercontent.com/ScriptsAndApps/GTAV/main/menu166.png)
 
 to use download this and open the modest menu protected.exe
 
