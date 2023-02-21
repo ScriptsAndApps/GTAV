@@ -1,0 +1,68 @@
+    -- "Threading" code
+    local threads = 1
+    local funcs = {}
+    local curthread = 0
+     
+    local sleeping = {}
+    local sleepticking = {}
+     
+    local function Thread(func)
+    	funcs[threads] = func
+    	threads = threads + 1
+    end
+    -- Can put sleep only at the end of function !!!
+    local function sleep(ticks)
+    	sleeping[curthread] = true
+    	sleepticking[curthread] = ticks * 100
+    end
+     
+    local stopped = 0
+    local function Run()
+    	for i = 1, (threads - 1) do
+    		curthread = i
+     
+    		if not sleeping[curthread] then
+    			if (funcs[i]() == false) then
+    				funcs[i] = function() end
+    				stopped = stopped + 1
+    			end
+    		else
+    			if sleepticking[curthread] > 0 then
+    				sleepticking[curthread] = sleepticking[curthread] - 1
+    			else
+    				sleeping[curthread] = false
+    				if (funcs[i]() == false) then
+    					funcs[i] = function() end
+    					stopped = stopped + 1
+    				end
+    			end
+    		end
+    	end
+    	if (stopped == (threads - 1)) then
+    		return false
+    	end
+    	return true
+    end
+     
+    -- here you put your functions 
+    function Test()
+    	menu.clear_wanted_level()
+    end
+     
+    function Test1()
+    	menu.max_current_ammo()
+    	sleep(1000)
+    end
+     
+    function Test3()
+    	localplayer:set_position(localplayer:get_position() + vector3(0,0,1))
+    	sleep(5000)
+    end
+     
+    Thread(Test)
+    Thread(Test1)
+    Thread(Test3)
+     
+     
+    --don't touch this
+    menu.add_action("Start "..(threads - 1).." functions", function() while (Run()) do end end) -- this
