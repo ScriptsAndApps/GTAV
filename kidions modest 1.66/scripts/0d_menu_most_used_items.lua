@@ -106,7 +106,7 @@ menu.register_hotkey(121, function()  menu:enter_personal_vehicle()  menu:retrie
 subb:add_action("Get inside person vehicle (F10)",  function()  menu:enter_personal_vehicle()  menu:retrieve_personal_vehicle() end)
 
 --F6 TelePort IN PERSONAL VEHICLE --
-menu.register_hotkey(117,  function() menu:teleport_to_current_vehicle() menu:retrieve_personal_vehicle() end)
+menu.register_hotkey(117,  function() menu:teleport_to_current_vehicle()  menu:retrieve_personal_vehicle() end)
 subb:add_action("Teleport to person vehicle (F6)", function() menu:teleport_to_current_vehicle()  menu:retrieve_personal_vehicle() end)
 
 
@@ -153,9 +153,11 @@ subb:add_action("refill ammo + upgrade", function()
                 localplayer:get_current_weapon():set_current_ammo(localplayer:get_current_weapon():get_max_mp_ammo())
               
         end
-
 end)
+subb:add_action("menu.level_current_vehicle() ", function() menu:level_current_vehicle() end)
+subb:add_action(" menu:deliver_personal_vehicle()  ", function() menu:deliver_personal_vehicle()  end)
 
+ 
 subb:add_action("menu.kill_all_enemies()", function() menu:kill_all_enemies() end)
 subb:add_action("menu.kill_all_mission_peds() ", function() menu:kill_all_mission_peds() end)
 subb:add_action("menu.kill_all_mission_vehicles()", function() menu:kill_all_mission_vehicles() end)
@@ -165,7 +167,7 @@ subb:add_action("menu.deliver_personal_vehicle() ", function() menu:deliver_pers
 subb:add_action("menu.instant_bullshark()", function() menu:instant_bullshark()  end)
 subb:add_action("menu.instant_minigun()", function() menu:instant_minigun() end)
 subb:add_action("menu.detach_objects() ", function() menu:detach_objects()  end)
-subb:add_action("menu.level_current_vehicle() ", function() menu:level_current_vehicle()  end)
+
 subb:add_action("menu.repair_online_vehicle() ", function() menu:repair_online_vehicle()  end)
 subb:add_action("menu.remove_insurance_claims() ", function() menu:remove_insurance_claims()  end)
 subb:add_action("menu.teleport_to_current_vehicle()", function() menu:teleport_to_current_vehicle()  end)
