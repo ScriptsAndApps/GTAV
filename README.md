@@ -68,5 +68,8 @@ https://www.unknowncheats.me/forum/grand-theft-auto-v/487033-wicked-menu-cheat-e
 scripthook.dll 1.66 with menyoo.asi for exmple
 
 https://github.com/ScriptsAndApps/GTAV/raw/main/scripthook%2Basiloader_%5Bunknowncheats.me%5D_.zip
+https://github.com/ScriptsAndApps/GTAV/raw/main/Menyoo%201.7.6.zip
 
+sources
+https://www.unknowncheats.me/forum/alternative-online-mods/571248-scripthookv-online-1-66-asi-loader.html?posted=1#post3680303
 https://github.com/MAFINS/MenyooSP/releases/tag/v1.7.6
