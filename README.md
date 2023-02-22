@@ -69,6 +69,8 @@ scripthook.dll 1.66 with menyoo.asi for exmple
 
 https://github.com/ScriptsAndApps/GTAV/raw/main/scripthook%2Basiloader_%5Bunknowncheats.me%5D_.zip
 
+you can... you use this in online yes yes!!!!!!
+https://github.com/ScriptsAndApps/GTAV/raw/main/MenyooSP_1_7_5.zip
 
 this one does not load on my pc....
 https://github.com/ScriptsAndApps/GTAV/raw/main/Menyoo%201.7.6.zip
