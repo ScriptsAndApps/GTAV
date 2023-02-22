@@ -59,3 +59,14 @@ after installing CE open ![Wicked.GTA5.V3.2.CT](https://github.com/ScriptsAndApp
 source
 https://www.unknowncheats.me/forum/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html
 
+
+
+
+
+----------------------------------------------------
+
+scripthook.dll 1.66 with menyoo.asi for exmple
+
+
+
+https://github.com/MAFINS/MenyooSP/releases/tag/v1.7.6
